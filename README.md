@@ -1,3 +1,5 @@
+`conda create --file environment.yml`
+
 # 3. Distribution of Fourier coefficients vs the Gaussian assumption
 
 
