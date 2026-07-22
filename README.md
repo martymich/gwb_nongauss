@@ -1,4 +1,9 @@
-`conda create --file environment.yml`
+1. `conda create --file environment.yml`
+
+2. `cd holodeck'
+
+3. pip install .
+
 
 # 3. Distribution of Fourier coefficients vs the Gaussian assumption
 
