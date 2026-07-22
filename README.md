@@ -11,10 +11,10 @@
 
 
 *References.*
-Lamb, Wachter, Mitridate, Sardesai, Bécsy, Hagen, Taylor & Kelley 2025, arXiv:2511.09659 (Finite Populations & Finite Time: the non-Gaussianity of a GW background).
-Sato-Polito & Zaldarriaga 2025, PRD 111, 023043 (amplitude distribution / heavy tails).
-Xue, Pan & Dai 2025, PRD 111, 043022 (non-Gaussian statistics of nanohertz GWs).
-Bernardo, Appleby & Ng 2024, JCAP 01, 017 (toward a test of Gaussianity).
+  - Lamb, Wachter, Mitridate, Sardesai, Bécsy, Hagen, Taylor & Kelley 2025, arXiv:2511.09659 (Finite Populations & Finite Time: the non-Gaussianity of a GW background).
+  - Sato-Polito & Zaldarriaga 2025, PRD 111, 023043 (amplitude distribution / heavy tails).
+  - Xue, Pan & Dai 2025, PRD 111, 043022 (non-Gaussian statistics of nanohertz GWs).
+  - Bernardo, Appleby & Ng 2024, JCAP 01, 017 (toward a test of Gaussianity).
 
 
 **Software.** holodeck (populations); numpy / scipy (the MVP needs little else); enterprise (stretch).
